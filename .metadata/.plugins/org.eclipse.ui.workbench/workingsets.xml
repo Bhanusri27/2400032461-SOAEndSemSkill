@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1794909836512_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1794909836531_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1794909927113_3" label="roundrobin-gateway" name="roundrobin-gateway">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/api-gateway" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/driver-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/service-registry" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1794909840288_2" label="Window Working Set" name="Aggregate for window 1794909840288"/>
+</workingSetManager>
